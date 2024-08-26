@@ -1,11 +1,10 @@
-# Text-Summarizer-Project
-Here's a draft for your README file:
+
 
 ---
 
-# Text Summarization Using Transformers
+# Text-Summarizer-Project
 
-Welcome to the Text Summarization project! This repository contains the implementation of a text summarization model using transformers, along with the deployment code following MLOps practices.
+Welcome to the Text-Summarizer-Project! This repository contains the implementation of a text summarization model using transformers, along with the deployment code following MLOps practices.
 
 ## Table of Contents
 
@@ -33,8 +32,8 @@ To get started with this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ShawneilRodrigues/text-summarization-transformers.git
-   cd text-summarization-transformers
+   git clone https://github.com/ShawneilRodrigues/Text-Summarizer-Project.git
+   cd Text-Summarizer-Project
    ```
 
 2. **Create and activate a virtual environment:**
@@ -105,4 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify this template to fit the specifics of your project!
+This version reflects the correct repository name. Feel free to adjust it further to fit your project!
